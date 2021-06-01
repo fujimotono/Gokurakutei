@@ -1,4 +1,4 @@
-アプリ名　Gokurakutei
+アプリ名　＃Gokurakutei
 
 概要　架空の温泉旅館のホームページ
 

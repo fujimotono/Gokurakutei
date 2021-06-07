@@ -33,7 +33,6 @@ https://gyazo.com/af864cdd4e4082f04e9f3dc2a9cd8f20
  https://gyazo.com/ee3c5775465806398db110d429d19c61
  
 レスポンシブ時のハンバーガーメニュー
-![demo](https://gyazo.com/gyazo.com/9f7c082422ddd472a186c60d8d5d015d/raw)
  https://gyazo.com/9f7c082422ddd472a186c60d8d5d015d
 
 # 工夫したポイント　

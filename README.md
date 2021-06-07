@@ -25,10 +25,10 @@
  
 # 使用技術　
 ## フロントエンド
- HTML CSS Sass JavaScript jQuery 
+ HTML. CSS. Sass. JavaScript. jQuery 
 
 # 追加実装機能　
- お問い合わせページ　ブログ一覧、詳細ページ
+ お問い合わせページ、ブログ一覧、詳細ページ
  
  
  

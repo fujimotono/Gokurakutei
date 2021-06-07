@@ -13,7 +13,7 @@
 # DEMO
 
 トップページ
- [image](https://user-images.githubusercontent.com/73094302/120992609-bd15c900-c7bd-11eb-894f-35dbff6b1abb.png)
+ https://gyazo.com/0bcc4bfe69412c2a92da83ecd5efd04d
  
 よくある質問
  ![demo](https://gyazo.com/ee3c5775465806398db110d429d19c61/raw)

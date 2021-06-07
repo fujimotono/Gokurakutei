@@ -23,6 +23,10 @@ https://gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a
 おすすめプラン
 ![demo](https://gyazo.com/32c2cf578e823f114523a28fef4bf174/raw)
 https://gyazo.com/32c2cf578e823f114523a28fef4bf174
+
+ブログ
+![demo](https://gyazo.com/6419f3ee169edbd70068f7588782f154/raw)
+https://gyazo.com/6419f3ee169edbd70068f7588782f154
  
 よくある質問
  ![demo](https://gyazo.com/ee3c5775465806398db110d429d19c61/raw)

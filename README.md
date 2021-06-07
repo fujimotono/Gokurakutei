@@ -19,7 +19,7 @@
  https://gyazo.com/bde249caa203cc9a17009bb2499caacd
 
 # 工夫したポイント　
- 　1、JavaScriptを使用して動きのあるホームページに。<br>　
+ 　 1、JavaScriptを使用して動きのあるホームページに。<br>　
  2、レスポンシブでホームページの型崩れを回避。<br>　
  3、Sassを使用しcssをより便利に効率的に。
  

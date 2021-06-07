@@ -16,6 +16,10 @@
 ![demo](https://gyazo.com/0bcc4bfe69412c2a92da83ecd5efd04d/raw)
  https://gyazo.com/0bcc4bfe69412c2a92da83ecd5efd04d
  
+本館の特徴
+![demo](https://gyazo.com/gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a/raw)
+https://gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a
+ 
 よくある質問
  ![demo](https://gyazo.com/ee3c5775465806398db110d429d19c61/raw)
  https://gyazo.com/ee3c5775465806398db110d429d19c61

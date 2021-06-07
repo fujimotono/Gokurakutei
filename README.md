@@ -11,12 +11,15 @@
  温泉旅館のホームページを製作するにあたって　1、本館の特徴　2、おすすめプラン　3、ブログ　4、よくある質問　の構成で作成いたしました。 
  
 # DEMO
+
+トップページ
+ スクリーンショット 2021-06-01 16.28.35![image](https://user-images.githubusercontent.com/73094302/120992609-bd15c900-c7bd-11eb-894f-35dbff6b1abb.png)
  
- よくある質問
+よくある質問
  ![demo](https://gyazo.com/ee3c5775465806398db110d429d19c61/raw)
  https://gyazo.com/ee3c5775465806398db110d429d19c61
  
- レスポンシブ時のハンバーガーメニュー
+レスポンシブ時のハンバーガーメニュー
  ![demo](https://gyazo.com/bde249caa203cc9a17009bb2499caacd/raw)
  https://gyazo.com/bde249caa203cc9a17009bb2499caacd
 

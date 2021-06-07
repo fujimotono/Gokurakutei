@@ -17,7 +17,7 @@
  https://gyazo.com/0bcc4bfe69412c2a92da83ecd5efd04d
  
 本館の特徴
-![demo](https://gyazo.com/gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a/raw)
+![demo](https://gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a/raw)
 https://gyazo.com/e4af7f8b6eaffa4e0827b6925f319b0a
  
 よくある質問

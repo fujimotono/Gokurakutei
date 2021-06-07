@@ -36,7 +36,7 @@ https://gyazo.com/af864cdd4e4082f04e9f3dc2a9cd8f20
  https://gyazo.com/9f7c082422ddd472a186c60d8d5d015d
 
 # 工夫したポイント　
- 　 1、JavaScriptを使用して動きのあるホームページに。<br>　
+ 　 1、JavaScriptを使用して動きのあるホームページに。スライダー、アコーディオン、ハンバーガーで使用。<br>　
  2、レスポンシブでホームページの型崩れを回避。<br>　
  3、Sassを使用しcssをより便利に効率的に。
  
